@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shreevatsa Nayak</h1>
 <h3 align="center">A 3rd Year Computer Science Student from the United Kingdom</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 
