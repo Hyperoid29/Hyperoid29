@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C# and Java**
 
-- 📫 How to reach me **jansun2k@gmail.com**
+- 📫 How to reach me: **jansun2k@gmail.com**
 
 - ⚡ Fun fact: I love to code and play Football
 
