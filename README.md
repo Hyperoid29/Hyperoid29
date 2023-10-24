@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Shreevatsa Nayak</h1>
 
 
-## I'm a Java and C# Programmer
+## I'm a Java and Python Programmer
 
 - 🌱 Graduated **Computer Science at the University of the West of England** with a First-Class Honours
 
-- 💬 Ask me about **C# and Java**
+- 💬 Ask me about **Python and Java**
 
 - 📫 How to reach me: **jansun2k@gmail.com**
 
