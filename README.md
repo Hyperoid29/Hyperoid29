@@ -42,6 +42,7 @@
 ### Experiences:
 - 1-Year at Lockheed Martin as a Software Engineer Intern
 - 3-Years as a Student Ambassador in the University of the West of England
+- Currently a Software developer at FullFibre
 
 <br />
 <br />
